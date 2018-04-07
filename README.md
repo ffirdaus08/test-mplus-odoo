@@ -1,2 +1,2 @@
 # Test
-simple crud use odoo 
+simple crud use odoo 8
